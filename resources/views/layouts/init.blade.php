@@ -14,7 +14,7 @@
 
 </head>
 <body style="overflow-x: hidden" class="bg-white">
-    <div class="wrapper">
+    <div class="wrapper" style="overflow-x: hidden">
         <div class="sidebar">
             <div class="sidebar-wrapper">
                 <ul class="nav">
